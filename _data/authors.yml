@@ -8,7 +8,7 @@
 mgalland: # replace this with your info
   name: "Marc Galland"
   siterole: "webmaster, community lead, bioinformatician and data scientist"
-  uri: http://www.mgalland.info/
-  email: mgalland@biodataservices.nl
+  uri: "http://www.mgalland.info/"
+  email: "mgalland@biodataservices.nl"
   twitter: 
 # you can add more authors here
