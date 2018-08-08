@@ -28,7 +28,9 @@ header:
 ---
 <br />
 
-# Welcome to the BioData Services website!
-The company provides tailor-made 
+# Welcome to BioData Services
+<p>The company provides tailor-made data services. Whether you are interested in building a database, performing bioinformatic analyses or organizing <em>ad hoc</em> training workshops, my company can provide these services to your business or academic research group. </p>
+
+<h2>Find more on our services</h2>
 On this website, you will find information about the company, its <em>modus operandi</em> and the solutions I can provide to your business or your academic research group.
 

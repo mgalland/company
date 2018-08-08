@@ -18,6 +18,14 @@
   url: "/prices/"
   side: left
 
+- title: "Collaborators"
+  url: "/collaborations/"
+  side: right
+
+- title: "Clients"
+  url: "/clients/"
+  side: right
+
 - title: "Contact"
   url: "/contact/"
   side: right
