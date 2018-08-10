@@ -7,7 +7,7 @@
   side: left
 
 - title: "Who am I"
-  url: "/contact/"
+  url: "/whoami/"
   side: left
 
 - title: "Services"
@@ -19,7 +19,7 @@
   side: left
 
 - title: "Collaborators"
-  url: "/collaborations/"
+  url: "/collaborators/"
   side: right
 
 - title: "Clients"

@@ -1,7 +1,7 @@
 ---
-permalink: /search/
+permalink: /prices/
 layout: page
-title: "Search"
+title: "prices"
 sitemap: false
 ---
 

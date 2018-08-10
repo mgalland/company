@@ -34,3 +34,4 @@ header:
 <h2>Find more on our services</h2>
 On this website, you will find information about the company, its <em>modus operandi</em> and the solutions I can provide to your business or your academic research group.
 
+
