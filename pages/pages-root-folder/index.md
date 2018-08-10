@@ -28,7 +28,7 @@ header:
 ---
 <br />
 
-# Welcome to BioData Services
+<h1> Welcome to BioData Services</h1>
 <p>The company provides tailor-made data services. Whether you are interested in building a database, performing bioinformatic analyses or organizing <em>ad hoc</em> training workshops, my company can provide these services to your business or academic research group. </p>
 
 <h2>Find more on our services</h2>
