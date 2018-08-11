@@ -162,8 +162,18 @@ figcaption a:hover,
 /* Tables
 ------------------------------------------------------------------- */
 
-td {
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
     vertical-align: top;
+    text-align: left;
 }
 
 
