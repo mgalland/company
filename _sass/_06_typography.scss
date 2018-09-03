@@ -157,7 +157,11 @@ figcaption a:hover,
     text-align: right;
 }
 
-
+.img-services{
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+}
 
 /* Tables
 ------------------------------------------------------------------- */
@@ -238,6 +242,10 @@ dd {
 article dl dt   { line-height: 1.3; }
 article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: rem-calc(24); }
 
+.list-services{
+    list-style: disc;
+    margin-left:-35px;
+}
 
 
 /* Quotes

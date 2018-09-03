@@ -11,6 +11,7 @@
 - Accordion
 - Lazy Load XT
 - Frontpage Widget
+- Customs
 
 */
 
@@ -148,3 +149,25 @@ img.lazy {
     transition: opacity 0.7s;
     opacity: 1;
 }
+
+/* Customs
+------------------------------------------------------------------- */
+#conteneur
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: left
+
+}
+
+.element
+{
+  font-size: 1em;
+  justify-content: justify;
+}
+
+.under{
+  clear: both;
+}
+
