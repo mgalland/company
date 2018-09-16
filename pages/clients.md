@@ -1,10 +1,10 @@
 ---
 layout: page
 show_meta: false
-title: "Company mission and values"
-subheadline: "Layouts of Feeling Responsive"
+title: "Company clients"
+subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "company.jpg"
 permalink: "/clients/"
 ---
-clients
+In construction

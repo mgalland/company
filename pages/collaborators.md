@@ -1,12 +1,12 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Collaborators"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+subheadline: ""
+teaser: ""
 permalink: "/collaborators/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "rawpixel-683571-unsplash.jpg"
+   caption: Photo by rawpixel on Unsplash
+   caption_url: https://unsplash.com/photos/IJFnMSGY_bM
 ---
-Some of my best collaborators
-
-test test
+In construction

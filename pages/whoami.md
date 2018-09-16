@@ -1,10 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "Marc Galland, founder of BioData Services"
+subheadline: ""
+teaser: "In construction"
 permalink: "/whoami/"
 header:
-   image_fullwidth: "header_unsplash_4.jpg"
+   image_fullwidth: "aleksandar-kanizaj-738317-unsplash.jpg"
+   caption: Photo by Aleksandar Kanizaj on Unsplash
+   caption_url: https://unsplash.com/photos/5cStYjpaPT8
 ---
-Who I am

@@ -2,9 +2,10 @@
 layout: page
 show_meta: false
 title: "Company mission and values"
-subheadline: "Layouts of Feeling Responsive"
+subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "gretchen-seelenbinder-50136-unsplash.jpg"
+   image_caption: "Photo by Gretchen Seelenbinder on Unsplash"
 permalink: "/company/"
 ---
-test
+In construction
