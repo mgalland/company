@@ -152,7 +152,8 @@ img.lazy {
 
 /* Customs
 ------------------------------------------------------------------- */
-#conteneur
+
+/*#conteneur
 {
   display: flex;
   flex-direction: column;
@@ -160,6 +161,7 @@ img.lazy {
   align-items: left
 
 }
+
 
 .element
 {
@@ -170,4 +172,20 @@ img.lazy {
 .under{
   clear: both;
 }
+*/
 
+.container-services-images {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+
+.item {
+  width: 300px
+}
+
+.container-services-text {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around; /* maybe I should put flex-start instead */
+}
