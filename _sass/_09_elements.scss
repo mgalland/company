@@ -162,10 +162,25 @@ img.lazy {
 }
 
 .item {
-  height: 500px;
-  margin: 20px
+  height: 400px;
+  margin: 20px;
+  text-align: justify;
 }
 
+
+
+.clearfix{
+  overflow: auto;
+  text-align: justify;
+  margin: 10px
+}
+
+.img-whoiam {
+  float: left;
+  height: 200px;
+  padding: 10px;
+  clear: left;
+}
 /*
 
 .master-container{
