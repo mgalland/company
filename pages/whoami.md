@@ -12,7 +12,7 @@ header:
 <h2>A scientist fascinated by plants</h2>
 
 <div class="clearfix">
-<img class="img-whoiam" src="../images/marc_galland.jpeg" alt="Picture">
+<img class="img-whoiam" src="../images/marc_galland.jpeg" alt="Personal picture" width="42">
 <p><strong>2006-2009:</strong> I obtained my PhD in Plant Molecular Biology on the role of the ethylene signalling pathway in plant-bacteria interactions (2006-2009, University of Montpellier, France).
   This gave me a strong background in common tools used on the <em>Arabidopsis thaliana</em>
   a model plant species (PCR, qPCR, genotyping, mutant analysis, etc.). <br>
