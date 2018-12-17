@@ -1,12 +1,12 @@
 - name: GitHub
   url: https://github.com/mgalland
   class: icon-github
-  title: Code and others
+  title: Github account
 
 - name: Linkedin
-  url: www.linkedin.com/in/marc-galland
+  url: https://www.linkedin.com/in/marc-galland
   class: icon-linkedin
-  title: ""
+  title: Linkedin
 
 # - name: Facebook
 #   url: http://www.facebook.com/
