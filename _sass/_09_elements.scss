@@ -152,22 +152,57 @@ img.lazy {
 
 /* Customs
 ------------------------------------------------------------------- */
-#conteneur
-{
+
+.container {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: left
-
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: top;
+  height: 1000px  
 }
 
-.element
-{
-  font-size: 1em;
-  justify-content: justify;
+.item {
+  height: 400px;
+  margin: 20px;
+  text-align: justify;
 }
 
-.under{
-  clear: both;
+
+
+.clearfix{
+  overflow: auto;
+  text-align: justify;
+  margin: 10px
 }
 
+.img-whoiam {
+  float: left;
+  height: 200px;
+  padding: 10px;
+  clear: left;
+}
+/*
+
+.master-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center
+}
+
+.container-services-images {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+
+.item {
+  width: 300px
+}
+
+.container-services-text {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around; 
+}
+*/
