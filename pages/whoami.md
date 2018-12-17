@@ -33,8 +33,8 @@ accessible (<a href="https://www.nature.com/news/technology-the-1-000-genome-1.1
 Yet, while the technical part has become affordable, it still requires considerable know-how to analyse these types of data.
 <br>
 Please contact me to see what we can do together to get the most out of genomic datasets.
+<br>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Contact me</a>
-
 
 <h2>A recent entrepreneur, founder of BioData Services</h2>
 <p>In 2018, I have founded the <strong> BioData Services </strong> company to support small and medium-size
