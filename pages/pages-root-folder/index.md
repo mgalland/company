@@ -29,9 +29,26 @@ header:
 <br />
 
 <h1> Welcome to BioData Services</h1>
-<p>The company provides tailor-made data services. Whether you are interested in building a database, performing bioinformatic analyses or organizing <em>ad hoc</em> training workshops, my company can provide these services to your business or academic research group. </p>
 
-<h2>Find more on our services</h2>
-On this website, you will find information about the company, its <em>modus operandi</em> and the solutions I can provide to your business or your academic research group.
+<h2>Services</h2>
+<p>My company provides tailor-made data services in genomics for your business.
+The decreasing prices of next-generation sequencing (NGS) technologies has open new business research possibilities.
+My goal is to help plant breeding companies, small and medium size business as well as academic research groups to
+make sense of this data deluge.  <br/>
+
+Whether you are interested in building a database, performing bioinformatic analyses or organizing <em>ad hoc</em>
+training workshops, my company can provide these services to your business. <a href="services/">Find out more on what I can offer to your business here</a>.</p>
 
 
+<h2>Expertise</h2>
+I dispose of 10 years of hands-on experience in plant research and several years in genomics.
+<a href="whoami">Please find a short summary of my profile here</a>. <br>
+I also maintain a <a href="http://www.mgalland.info">personal academic website</a> for my activities at the University of Amsterdam.
+
+<h2>Clients and collaborators</h2>
+I have already helped small business companies (SciEnza) and academic groups alike (Prof. Gerard Muyzer).<a href="clients/">An up-to-date list of my current and past customers can be found here.</a><br>
+To offer high-quality services, I collaborate with webmasters and foundations alike. <a href="collaborators/">Find out more on these collaborations here</a>.<br>
+I regularly organize programming and data analysis training workshops but I also give one-to-one support and offer lectures.
+
+<h2>Let's get in touch</h2>
+Do no hesitate to contact me to start the discussion <a href="contact/">by using the contact form here.</a>
