@@ -2,16 +2,16 @@
   url: "/"
   side: left
 
-- title: "Company"
-  url: "/company/"
-  side: left
-
 - title: "Who am I"
   url: "/whoami/"
   side: left
 
-- title: "Services"
-  url: "/services/"
+- title: "Genomics"
+  url: "/genomics/"
+  side: left
+
+- title: "Training"
+  url: "/training/"
   side: left
 
 - title: "Prices"
