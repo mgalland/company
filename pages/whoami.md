@@ -35,10 +35,7 @@ Yet, while the technical part has become affordable, it still requires considera
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Please contact me to see what we can do together!</a>
 
 <h2>A recent entrepreneur, founder of BioData Services</h2>
-<p>In 2018, I have founded the <strong> BioData Services </strong> company to support small and medium-size
-plant breeding companies for their needs in bioinformatics & genomics analyses.
-In coordination with <a href="https://jr.agency/">Johan Roche</a>, a freelance web designer,
-I can also build dedicated breeding databases to efficiently manage plant germplasm.</p>
+<p>In 2018, I have founded the <strong> BioData Services </strong> company to support small and medium-size companies for their needs in bioinformatics & genomics analyses. In addition, as an official Carpentries Foundation instructor, I regularly organize and participate to coding workshops where professionals get trained in programming and data analyses. </p>
 
 <h2>A supporter of academic researchers</h2>
 <p>On the academic side, I am employed at the University of Amsterdam among the <a href="http://gls.uva.nl/">Green Life Sciences research cluster</a>
