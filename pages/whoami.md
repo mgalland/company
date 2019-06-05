@@ -31,8 +31,6 @@ to decipher the DNA sequence of an organism. Moreover, this technology has now b
 accessible (<a href="https://www.nature.com/news/technology-the-1-000-genome-1.14901">Technology: the $1,000 genome (2014)
 <em>Nature</em></a>).
 Yet, while the technical part has become affordable, it still requires considerable know-how to analyse these types of data.
-<br>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Please contact me to see what we can do together!</a>
 
 <h2>A recent entrepreneur, founder of BioData Services</h2>
 <p>In 2018, I have founded the <strong> BioData Services </strong> company to support small and medium-size companies for their needs in bioinformatics & genomics analyses. In addition, as an official Carpentries Foundation instructor, I regularly organize and participate to coding workshops where professionals get trained in programming and data analyses. </p>
@@ -43,3 +41,6 @@ to support fellow researchers in programming and data analysis related to basic 
 In addition, I regularly organise Software and Data Carpentry training workshops.
 <br>
 Please visit <a href="www.mgalland.info">my personal academic website</a> for more information</p>
+
+<br>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Let's start the discussion to see how I can help you!</a>

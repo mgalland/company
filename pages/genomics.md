@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Genomics"
 meta_title: "Genomics"
-subheadline: "Helping you to get access to the latest development in Next-Generation Sequencing technologies "
+subheadline: ""
 teaser: ""
 permalink: "/genomics/"
 header:
@@ -12,6 +12,7 @@ header:
 ---
 <div>
   <p>
+  Helping you to get access to the latest development in Next-Generation Sequencing technologies 
   genomics
   </p>
 </div>
