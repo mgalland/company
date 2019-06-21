@@ -36,8 +36,8 @@ The decreasing prices of next-generation sequencing (NGS) technologies has open 
 My goal is to help plant breeding companies, small and medium size business as well as academic research groups to
 make sense of this data deluge.  <br/>
 
-Whether you are interested in building a database, performing bioinformatic analyses or organizing <em>ad hoc</em>
-training workshops, my company can provide these services to your business. <a href="services/">Find out more on what I can offer to your business here</a>.</p>
+Whether you are interested in performing bioinformatic analyses or organizing <em>ad hoc</em>
+training workshops, my company can provide these services to your business. Services in genomics and various "omics" are listed in the <a href="genomics/">Genomics page</a> while training support is indicated in the <a href="training/">Training page</a>.
 
 
 <h2>Expertise</h2>
