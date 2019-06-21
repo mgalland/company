@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Collaborators"
+title: ""
 subheadline: ""
 teaser: ""
 permalink: "/collaborators/"
@@ -9,4 +9,11 @@ header:
    caption: Photo by rawpixel on Unsplash
    caption_url: https://unsplash.com/photos/IJFnMSGY_bM
 ---
-In construction
+<h2>Collaborators</h2>
+
+<br>
+
+
+> <span class="teaser">Tailored Breeding solutions. <a href="https://www.sparkgenetics.com">Company website</a></span><cite>Spark Genetics</cite>
+
+<img class="img-whoiam" src="../images/sparkgenetics.png" alt="Spark Genetics">
