@@ -14,15 +14,15 @@ header:
  </tr>
  <tr>
   <td>One sample</td>
-  <td>15€</td>
+  <td>90€</td>
  </tr>
  <tr>
   <td>10 - 50 samples</td>
-  <td>14€</td>
+  <td>80€</td>
  </tr>
  <tr>
   <td> 50 samples and more</td>
-  <td>13€</td>
+  <td>70€</td>
  </tr>
 </table>
 
@@ -100,16 +100,19 @@ header:
  <tr>
   <th>Description</th>
   <th>Example</th>
-  <th>Indicate costs (excl. 21% BTW)</th>
+  <th>Unit costs</th>
+  <th>Total costs (excl. 21% BTW)</th>
  </tr>
  <tr>
   <td>Variant calling</td>
   <td>Detecting Single Nucleotide Polymorphisms (SNPs) and small InDels on 96 samples.</td>
-  <td>1248€</td>
+  <td>96 x 70€ + 2h of reporting</td>
+  <td>6870€</td>
  </tr>
  <tr>
   <td>RNA-Seq</td>
   <td>Profiling of gene expression in 10 different samples from two different cultivars using Illumina paired-end sequencing reads</td>
-  <td>750€</td>
+  <td>10 x 80€ + 2h of reporting</td>
+  <td>950€</td>
  </tr>
 </table>
