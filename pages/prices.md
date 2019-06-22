@@ -88,28 +88,28 @@ header:
 	<tr>
 		<td>Exploratory Data Analysis (PCA, Clustering)</td>
 	</tr>
-
-
-
-
-
 </table>
+
+
 
 <h2>Cost examples for analyses</h2>
 <table>
  <tr>
   <th>Description</th>
   <th>Example</th>
-  <th>Indicate costs (excl. 21% VAT)</th>
+  <th>Unit costs</th>
+  <th>Total costs (excl. 21% BTW)</th>
  </tr>
  <tr>
   <td>Variant calling</td>
   <td>Detecting Single Nucleotide Polymorphisms (SNPs) and small InDels on 96 samples.</td>
-  <td>1248€</td>
+  <td>96 x 70€ + 2h of reporting</td>
+  <td>6870€</td>
  </tr>
  <tr>
   <td>RNA-Seq</td>
   <td>Profiling of gene expression in 10 different samples from two different cultivars using Illumina paired-end sequencing reads</td>
-  <td>750€</td>
+  <td>10 x 80€ + 2h of reporting</td>
+  <td>950€</td>
  </tr>
 </table>
