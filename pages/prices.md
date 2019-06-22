@@ -14,15 +14,15 @@ header:
  </tr>
  <tr>
   <td>One sample</td>
-  <td>15€</td>
+  <td>90€</td>
  </tr>
  <tr>
   <td>10 - 50 samples</td>
-  <td>14€</td>
+  <td>80€</td>
  </tr>
  <tr>
   <td> 50 samples and more</td>
-  <td>13€</td>
+  <td>70€</td>
  </tr>
 </table>
 
