@@ -6,7 +6,7 @@ header:
    image_fullwidth: "marten-bjork-unsplash.jpg"
    caption: "Photo by Marten Bjork on Unsplash"
 ---
-<h2>Unit rates</h2>
+<h2>Unit rates (RNA-Seq & other omics)</h2>
 <table>
  <tr>
   <th>Number of samples</th>
@@ -23,6 +23,22 @@ header:
  <tr>
   <td> 50 samples and more</td>
   <td>70€</td>
+ </tr>
+</table>
+
+<h2>Unit rates (Variant analysis: SNPs &  InDels)</h2>
+<table>
+ <tr>
+  <th>Number of samples</th>
+  <th>Cost per sample (excl. 21% VAT)</th>
+ </tr>
+ <tr>
+  <td>96 samples</td>
+  <td>12€</td>
+ </tr>
+ <tr>
+  <td> 96 to 192 samples</td>
+  <td>10€</td>
  </tr>
 </table>
 
