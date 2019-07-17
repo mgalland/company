@@ -26,7 +26,7 @@ header:
  </tr>
 </table>
 
-<h2>Unit rates (Variant analysis: SNPs &  InDels)</h2>
+<h2>Unit rates (Variant analysis: SNPs)</h2>
 <table>
  <tr>
   <th>Number of samples</th>
