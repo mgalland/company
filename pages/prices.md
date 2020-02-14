@@ -119,8 +119,8 @@ header:
  <tr>
   <td>Variant calling</td>
   <td>Detecting Single Nucleotide Polymorphisms (SNPs) and small InDels on 96 samples.</td>
-  <td>96 x 70€ + 2h of reporting</td>
-  <td>6870€</td>
+  <td>96 x 10€ + 2h of reporting</td>
+  <td>1110€</td>
  </tr>
  <tr>
   <td>RNA-Seq</td>
