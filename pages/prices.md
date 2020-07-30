@@ -26,6 +26,14 @@ header:
  </tr>
 </table>
 
+__Deliverables:__  
+* Principal Component Analysis (PCA)
+* List of differentially expressed genes (1 per comparison of interest)
+* Others (to decide together depending on the research question):
+  - Over-representation analysis.
+  - Clustering analysis with associated heatmap.
+  - Data Integration with metabolic pathways.
+
 <h2>Unit rates (Variant analysis: SNPs)</h2>
 <table>
  <tr>
@@ -41,6 +49,10 @@ header:
   <td>10€</td>
  </tr>
 </table>
+
+__Deliverables:__
+- Variant Call Format file (VCF version 4.0 and higher)
+- Analysis report (fastq QC, etc.) 
 
 <h2>Hourly rates</h2>
 <table>
