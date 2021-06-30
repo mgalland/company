@@ -68,7 +68,7 @@ __Deliverables:__
 	<tr>
 		<td rowspan="2">Consultancy</td>
 		<td>Discussion with the client to specify his/her needs</td>
-		<td rowspan="2">90€</td>
+		<td rowspan="2">50€</td>
 	</tr>
 
 	<tr>
@@ -79,7 +79,7 @@ __Deliverables:__
 	<tr>
 		<td rowspan="2">Support</td>
 		<td>Technical support</td>
-		<td rowspan="2">75€</td>
+		<td rowspan="2">60€</td>
 	</tr>
 
 	<tr>
@@ -90,7 +90,7 @@ __Deliverables:__
 	<tr>
 		<td rowspan="2">Development</td>
 		<td>Genomics pipeline construction</td>
-		<td rowspan="2">120€</td>
+		<td rowspan="2">80€</td>
 	</tr>
 
 	<tr>
@@ -101,7 +101,7 @@ __Deliverables:__
 	<tr>
 		<td rowspan="2">Training</td>
 		<td>Teaching a Software Carpentry workshop</td>
-		<td rowspan="2">75€</td>
+		<td rowspan="2">60€</td>
 	</tr>
 	<tr>
 		<td>Custom one-to-one training</td>
@@ -111,7 +111,7 @@ __Deliverables:__
 	<tr>
 		<td rowspan="2">Data analysis</td>
 		<td>Performing genomic analyses</td>
-		<td rowspan="2">100€</td>
+		<td rowspan="2">80€</td>
 	</tr>
 	<tr>
 		<td>Exploratory Data Analysis (PCA, Clustering)</td>
