@@ -1,7 +1,7 @@
 ---
 permalink: /prices/
 layout: page
-title: "Prices (2019)"
+title: "Prices"
 header:
    image_fullwidth: "marten-bjork-unsplash.jpg"
    caption: "Photo by Marten Bjork on Unsplash"
